@@ -23,6 +23,7 @@ website:
           - exp6.qmd
           - exp7.qmd
           - exp8.qmd
+          - licence.qmd
 
 format:
   html:
