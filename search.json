@@ -1,10 +1,14 @@
 [
   {
-    "objectID": "Licence.html",
-    "href": "Licence.html",
+    "objectID": "licence.html",
+    "href": "licence.html",
     "title": "Licence",
     "section": "",
-    "text": "License: CC BY-NC-SA 4.0"
+    "text": "License: CC BY-NC-SA 4.0",
+    "crumbs": [
+      "Experiments",
+      "Licence"
+    ]
   },
   {
     "objectID": "exp8.html",
