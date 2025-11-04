@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "DIY Fieldwork"
+  site-url: https://hydro-unibern.github.io/DIY-fieldwork
+  description: "Hands-on hydrology experiments"
+  navbar: false
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - text: "Introduction"
+        href: index.qmd
+      - section: "Experiments"
+        contents:
+          - exp1.qmd
+          - exp2.qmd
+          - exp3.qmd
+          - exp4.qmd
+          - exp5.qmd
+          - exp6.qmd
+          - exp7.qmd
+          - exp8.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    code-fold: true
+    css: styles.css

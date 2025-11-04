@@ -1,0 +1,9 @@
+---
+title: "Introduction"
+---
+
+# Welcome to DIY Fieldwork
+
+This site introduces hands-on hydrology experiments designed for field-based learning.
+
+Use the navigation pane to explore each experiment.
