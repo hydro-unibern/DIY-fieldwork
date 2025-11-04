@@ -13,6 +13,8 @@ website:
     contents:
       - text: "Introduction"
         href: index.qmd
+      - text: "Licence"
+        href: licence.qmd
       - section: "Experiments"
         contents:
           - exp1.qmd
@@ -23,9 +25,6 @@ website:
           - exp6.qmd
           - exp7.qmd
           - exp8.qmd
-        - text: "License"
-          href: licence.qmd
-
 format:
   html:
     theme: cosmo
