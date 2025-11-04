@@ -23,7 +23,8 @@ website:
           - exp6.qmd
           - exp7.qmd
           - exp8.qmd
-          - licence.qmd
+        - text: "License"
+          href: licence.qmd
 
 format:
   html:
