@@ -11,7 +11,7 @@ website:
     style: "docked"
     search: true
     contents:
-      - text: "Introduction"
+      - text: "About"
         href: index.qmd
       - text: "Licence"
         href: licence.qmd
