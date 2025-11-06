@@ -65,7 +65,7 @@
     "href": "exp1.html",
     "title": "Experiment 1",
     "section": "",
-    "text": "Under construction",
+    "text": "Test text Under construction",
     "crumbs": [
       "Experiments",
       "Experiment 1"
@@ -109,9 +109,19 @@
     "href": "index.html",
     "title": "Introduction",
     "section": "",
-    "text": "Welcome to DIY Fieldwork [Under construction]\nThis site introduces hands-on hydrology experiments designed for field-based learning.\nUse the navigation pane to explore each experiment.",
+    "text": "This site introduces hands-on hydrology experiments designed for field-based learning. It presents the material that is used in a course at [University of Bern] http://www.geography.unibe.ch/forschung/hydrologie with the same name. The authors are: Ueli Ammann, University of Bern, ueli.ammann unibe.ch Bettina Schaefli, University of Bern, bettina.schaefli unibe.ch Natalie Ceperley, University of Bern, natalie ceperley unibe.ch\nUse the navigation pane to explore each experiment.\nPlease report any questions/bugs to\n\n\nThis work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
     "crumbs": [
-      "Introduction"
+      "About"
+    ]
+  },
+  {
+    "objectID": "index.html#license",
+    "href": "index.html#license",
+    "title": "Introduction",
+    "section": "",
+    "text": "This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+    "crumbs": [
+      "About"
     ]
   }
 ]
