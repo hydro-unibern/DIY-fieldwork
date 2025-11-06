@@ -2,8 +2,23 @@
 title: "Introduction"
 ---
 
-# Welcome to DIY Fieldwork [Under construction]
+# Welcome to DIY Fieldwork [Under construction] {.unnumbered}
 
-This site introduces hands-on hydrology experiments designed for field-based learning.
+This site introduces hands-on hydrology experiments designed for field-based learning. It presents the material that is used in a course at [University of Bern] http://www.geography.unibe.ch/forschung/hydrologie with the same name. The authors are:
+Ueli Ammann, University of Bern, ueli.ammann  unibe.ch
+Bettina Schaefli, University of Bern, bettina.schaefli unibe.ch
+Natalie Ceperley, University of Bern, natalie ceperley unibe.ch
 
 Use the navigation pane to explore each experiment.
+
+[Please report any questions/bugs to](https://github.com/hydro-unibern/DIY-fieldwork/issues)
+
+## License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" alt="Creative Commons License" style="border-width:0"/></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+### How to cite this material {-}
+To come
+----
+
+![](./images/logo_unibern_squid3.png){width="30%"}
