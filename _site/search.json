@@ -1,85 +1,23 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Introduction",
+    "objectID": "licence.html",
+    "href": "licence.html",
+    "title": "Licence",
     "section": "",
-    "text": "Welcome to DIY Fieldwork [Under construction]\nThis site introduces hands-on hydrology experiments designed for field-based learning.\nUse the navigation pane to explore each experiment.",
+    "text": "License: CC BY-NC-SA 4.0",
     "crumbs": [
-      "Introduction"
+      "Licence"
     ]
   },
   {
-    "objectID": "exp7.html",
-    "href": "exp7.html",
-    "title": "Experiment 7",
+    "objectID": "exp8.html",
+    "href": "exp8.html",
+    "title": "Experiment 8",
     "section": "",
     "text": "Under construction",
     "crumbs": [
       "Experiments",
-      "Experiment 7"
-    ]
-  },
-  {
-    "objectID": "exp5.html",
-    "href": "exp5.html",
-    "title": "DIY-fieldwork",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.",
-    "crumbs": [
-      "Experiments",
-      "DIY-fieldwork"
-    ]
-  },
-  {
-    "objectID": "exp3.html",
-    "href": "exp3.html",
-    "title": "Experiment 2",
-    "section": "",
-    "text": "Under construction",
-    "crumbs": [
-      "Experiments",
-      "Experiment 2"
-    ]
-  },
-  {
-    "objectID": "exp1.html",
-    "href": "exp1.html",
-    "title": "Experiment 1",
-    "section": "",
-    "text": "Under construction",
-    "crumbs": [
-      "Experiments",
-      "Experiment 1"
-    ]
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "exp2.html",
-    "href": "exp2.html",
-    "title": "Experiment 2",
-    "section": "",
-    "text": "Under construction",
-    "crumbs": [
-      "Experiments",
-      "Experiment 2"
-    ]
-  },
-  {
-    "objectID": "exp4.html",
-    "href": "exp4.html",
-    "title": "Experiment 5",
-    "section": "",
-    "text": "Under construction",
-    "crumbs": [
-      "Experiments",
-      "Experiment 5"
+      "Experiment 8"
     ]
   },
   {
@@ -94,14 +32,96 @@
     ]
   },
   {
-    "objectID": "exp8.html",
-    "href": "exp8.html",
-    "title": "Experiment 8",
+    "objectID": "exp4.html",
+    "href": "exp4.html",
+    "title": "Experiment 4",
     "section": "",
     "text": "Under construction",
     "crumbs": [
       "Experiments",
-      "Experiment 8"
+      "Experiment 4"
+    ]
+  },
+  {
+    "objectID": "exp2.html",
+    "href": "exp2.html",
+    "title": "Experiment 2",
+    "section": "",
+    "text": "Under construction",
+    "crumbs": [
+      "Experiments",
+      "Experiment 2"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "exp1.html",
+    "href": "exp1.html",
+    "title": "Experiment 1",
+    "section": "",
+    "text": "Test text Under construction",
+    "crumbs": [
+      "Experiments",
+      "Experiment 1"
+    ]
+  },
+  {
+    "objectID": "exp3.html",
+    "href": "exp3.html",
+    "title": "Experiment 3",
+    "section": "",
+    "text": "Under construction",
+    "crumbs": [
+      "Experiments",
+      "Experiment 3"
+    ]
+  },
+  {
+    "objectID": "exp5.html",
+    "href": "exp5.html",
+    "title": "Experiment 5",
+    "section": "",
+    "text": "Under construction",
+    "crumbs": [
+      "Experiments",
+      "Experiment 5"
+    ]
+  },
+  {
+    "objectID": "exp7.html",
+    "href": "exp7.html",
+    "title": "Experiment 7",
+    "section": "",
+    "text": "Under construction",
+    "crumbs": [
+      "Experiments",
+      "Experiment 7"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "This site introduces hands-on hydrology experiments designed for field-based learning. It presents the material that is used in a course at [University of Bern] http://www.geography.unibe.ch/forschung/hydrologie with the same name. The authors are: Ueli Ammann, University of Bern, ueli.ammann unibe.ch Bettina Schaefli, University of Bern, bettina.schaefli unibe.ch Natalie Ceperley, University of Bern, natalie ceperley unibe.ch\nUse the navigation pane to explore each experiment.\nPlease report any questions/bugs to\n\n\nThis work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "index.html#license",
+    "href": "index.html#license",
+    "title": "Introduction",
+    "section": "",
+    "text": "This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+    "crumbs": [
+      "About"
     ]
   }
 ]
