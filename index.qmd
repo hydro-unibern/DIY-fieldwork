@@ -3,6 +3,10 @@
 This site introduces hands-on hydrology experiments designed for field-based learning, developed by the [Hydro Group](https://www.geography.unibe.ch/research/hydrology/index_eng.html) of the [University of Bern](https://www.geography.unibe.ch/forschung/hydrologie).
 
 **Developers:** 
+Ueli Ammann, University of Bern, ueli.ammann  unibe.ch
+Bettina Schaefli, University of Bern, bettina.schaefli unibe.ch
+Natalie Ceperley, University of Bern, natalie ceperley unibe.ch
+
 
 Use the navigation pane to explore each experiment.
 
