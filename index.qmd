@@ -15,7 +15,7 @@ Use the navigation pane to explore each experiment.
 ## Funding
 The development of the course, the pilot and test phase is funded through the [Impuls Lehre] https://www.gutelehre.unibe.ch/foerderangebote/impuls__lehre programme (2026-2028) of University of Bern.
 
-![Drought conditions](images/impuls_logo.jpg)
+!Logo](images/impuls_logo.png)
 <img src="images/impuls_logo" width="300">
 
 ## License
@@ -26,4 +26,4 @@ The development of the course, the pilot and test phase is funded through the [I
 To come
 ----
 
-![](./images/logo_unibern_squid3.png){width="30%"}
+![Logo](images/unibern.png)
