@@ -32,8 +32,7 @@ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
 </a>.
 
 ### How to cite this material {-}
-
-To come
+Schaefli, B., Amman, U.: DIY-fieldwork in hydrology, online teaching material, https://hydro-unibern.github.io/DIY-fieldwork/ (last accessed: date)
 
 ---
 
