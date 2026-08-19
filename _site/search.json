@@ -54,13 +54,6 @@
     ]
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "exp1.html",
     "href": "exp1.html",
     "title": "Experiment 1",
@@ -107,9 +100,19 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Introduction",
+    "title": "Welcome to the DIY Hydro Fieldwork course pages [Under construction]",
     "section": "",
-    "text": "This site introduces hands-on hydrology experiments designed for field-based learning. It presents the material that is used in a course at [University of Bern] http://www.geography.unibe.ch/forschung/hydrologie with the same name. The authors are: Ueli Ammann, University of Bern, ueli.ammann unibe.ch Bettina Schaefli, University of Bern, bettina.schaefli unibe.ch Natalie Ceperley, University of Bern, natalie ceperley unibe.ch\nUse the navigation pane to explore each experiment.\nPlease report any questions/bugs to\n\n\nThis work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+    "text": "This site introduces hands-on hydrology experiments designed for field-based learning, developed by the Hydro Group of the University of Bern.\nDevelopers: Ueli Ammann, University of Bern, ueli.ammann unibe.ch Bettina Schaefli, University of Bern, bettina.schaefli unibe.ch Natalie Ceperley, University of Bern, natalie ceperley unibe.ch\nUse the navigation pane to explore each experiment.\nPlease report any questions/bugs.\n\n\nThe development of the course, the pilot and test phase is funded through the Impuls Lehre programme (2026–2028) of the University of Bern.\n\n\n\n\n  \n\nThis work is licensed under a  Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License .\n\n\nTo come\n\n\n\n\nLogo",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "index.html#funding",
+    "href": "index.html#funding",
+    "title": "Welcome to the DIY Hydro Fieldwork course pages [Under construction]",
+    "section": "",
+    "text": "The development of the course, the pilot and test phase is funded through the Impuls Lehre programme (2026–2028) of the University of Bern.",
     "crumbs": [
       "About"
     ]
@@ -117,9 +120,9 @@
   {
     "objectID": "index.html#license",
     "href": "index.html#license",
-    "title": "Introduction",
+    "title": "Welcome to the DIY Hydro Fieldwork course pages [Under construction]",
     "section": "",
-    "text": "This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+    "text": "This work is licensed under a  Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License .\n\n\nTo come\n\n\n\n\nLogo",
     "crumbs": [
       "About"
     ]
